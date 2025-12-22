@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Mohamud Omar Ali",
+        "title":"Technician",
+        "image":"/images/MembersImge/Mohamud.jpeg"
+    },
+    {
+        "id":2,
+        "name":"samir Ahmed wehliye",
+        "title":"Technician",
+        "image":"/images/MembersImge/Samiir.jpeg"
+    },
+    {
+        "id":3,
+        "name":"Mohamed Mokhtar Mohudiin ",
+        "title":"Technician",
+        "image":"/images/MembersImge/M m Muxudiin.jpeg"
+    },
+    {
+
+
+        "id":4,
+        "name":"Muscab bashiir Hassan ",
+        "title":"Technician",
+        "image":"/images/MembersImge/Muscab.jpeg"
+
+        
+    },
+    {
+
+
+        "id":5,
+        "name":"Said Mohamed Said ",
+        "title":"Technician",
+        "image":"/images/MembersImge/said.jpeg"
+
+        
+    },
+    {
+
+
+        "id":6,
+        "name":"Abdihakiin Gedi  Mohamed  ",
+        "title":"Technician",
+        "image":"/images/MembersImge/Abdihakiim.jpeg"
+
+        
+    },
+    {
+
+
+        "id":7,
+        "name":"Mohamed Ahmed Salah  ",
+        "title":"Technician",
+        "image":"/images/MembersImge/M A salax.jpeg"
+
+        
+    },
+    {
+
+
+        "id":7,
+        "name":"Ahmed Abdullahi Ali  ",
+        "title":"Technician",
+        "image":"/images/MembersImge/Ahmed.jpeg"
+
+        
+    }
+
+
+
+]
